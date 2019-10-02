@@ -1,0 +1,11 @@
+uses
+	CtrlLib;
+
+file
+	treegrid.h,
+	treegrid.cpp,
+	treegrid.iml;
+
+mainconfig
+	"" = "GUI";
+
